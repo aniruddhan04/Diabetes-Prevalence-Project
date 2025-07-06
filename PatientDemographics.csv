@@ -1,0 +1,11 @@
+PatientID,Age,Gender,Region
+1001,57,Female,Northeast
+1002,45,Male,Midwest
+1003,62,Female,South
+1004,33,Male,West
+1005,69,Female,Northeast
+1006,51,Male,Midwest
+1007,47,Female,South
+1008,40,Male,West
+1009,65,Female,Northeast
+1010,35,Male,Midwest
